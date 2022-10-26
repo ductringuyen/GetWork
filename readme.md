@@ -1,6 +1,6 @@
-# Getting MEAN application code
+# GetWork - Getting MEAN application code
 
-Getting MEAN is published by Manning, and teaches readers how to develop web applications end-to-end using the MEAN stack.
+"Getting MEAN" is published by Manning, and teaches readers how to develop web applications end-to-end using the MEAN stack.
 
 ## The application at various stages
 
